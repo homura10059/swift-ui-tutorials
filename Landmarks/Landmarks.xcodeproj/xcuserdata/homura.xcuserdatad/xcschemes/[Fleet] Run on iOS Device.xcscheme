@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "EDB1A71D2ACC371600F72C5B"
+               BuildableName = "Landmarks.app"
+               BlueprintName = "Landmarks"
+               ReferencedContainer = "container:Landmarks.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "YES"
+      customWorkingDirectory = "/Users/homura/git-repos/github.com/homura10059/swift-ui-tutorials/Landmarks"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "EDB1A71D2ACC371600F72C5B"
+            BuildableName = "Landmarks.app"
+            BlueprintName = "Landmarks"
+            ReferencedContainer = "container:Landmarks.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>

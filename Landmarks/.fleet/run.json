@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "xcode-app",
+            "name": "Run on iOS Device", 
+            "buildTarget": {
+                "project": "Landmarks",
+                "target": "Landmarks",
+            },
+            "configuration": "Debug",
+            "destination": "iOS Device",
+        }
+    ]
+}
